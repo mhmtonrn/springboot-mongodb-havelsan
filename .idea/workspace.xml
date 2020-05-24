@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e207d040-f3ad-45b5-a808-7f8b87cc8a02" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cJDekKTM1D0kqFS3aUUrYHbvKL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean package install" />
+      <command value="mvn --builder" />
+      <command value="mvn bootRun" />
+      <command value="mvn spring-boot:run" />
+      <command value="mvn spring-boot:repackage" />
+      <command value="mvn build" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration name="AppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-mongodb-havelsan" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AppTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenericDeleteTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-mongodb-havelsan" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GenericDeleteTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenericDeleteTest.delData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-mongodb-havelsan" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GenericDeleteTest" />
+      <option name="METHOD_NAME" value="delData" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenericUpdateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-mongodb-havelsan" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GenericUpdateTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMongoRepositoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-mongodb-havelsan" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UserMongoRepositoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-mongodb-havelsan" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="tr.com.havelsan.demo.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AppTest" />
+        <item itemvalue="JUnit.UserMongoRepositoryTest" />
+        <item itemvalue="JUnit.GenericDeleteTest" />
+        <item itemvalue="JUnit.GenericDeleteTest.delData" />
+        <item itemvalue="JUnit.GenericUpdateTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e207d040-f3ad-45b5-a808-7f8b87cc8a02" name="Default Changelist" comment="" />
+      <created>1590237899898</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590237899898</updated>
+      <workItem from="1590237902816" duration="29531000" />
+      <workItem from="1590272460050" duration="4130000" />
+      <workItem from="1590319491648" duration="639000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="584" y="215" width="800" height="684" key="#Inspections" timestamp="1590239064500">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state x="584" y="215" width="800" height="684" key="#Inspections/58.27.1862.1053@58.27.1862.1053" timestamp="1590239064500" />
+    <state x="797" y="266" width="374" height="582" key="#com.intellij.ide.util.MemberChooser" timestamp="1590264409042">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state x="797" y="266" width="374" height="582" key="#com.intellij.ide.util.MemberChooser/58.27.1862.1053@58.27.1862.1053" timestamp="1590264409042" />
+    <state x="742" y="414" width="484" height="297" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1590246502727">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state x="742" y="414" width="484" height="297" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/58.27.1862.1053@58.27.1862.1053" timestamp="1590246502727" />
+    <state x="698" y="260" width="571" height="594" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1590258641447">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state x="698" y="260" width="571" height="594" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/58.27.1862.1053@58.27.1862.1053" timestamp="1590258641447" />
+    <state x="103" y="27" width="629" height="1053" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1590258314686">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state x="103" y="27" width="629" height="1053" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/58.27.1862.1053@58.27.1862.1053" timestamp="1590258314686" />
+    <state x="722" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590242715528">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state x="722" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/58.27.1862.1053@58.27.1862.1053" timestamp="1590242715528" />
+    <state x="747" y="298" key="#xdebugger.evaluate" timestamp="1590249548370">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state x="747" y="298" key="#xdebugger.evaluate/58.27.1862.1053@58.27.1862.1053" timestamp="1590249548370" />
+    <state width="473" height="506" key="DebuggerActiveHint" timestamp="1590268392942">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state width="473" height="506" key="DebuggerActiveHint/58.27.1862.1053@58.27.1862.1053" timestamp="1590268392942" />
+    <state x="772" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1590274564467">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state x="772" y="311" width="424" height="491" key="FileChooserDialogImpl/58.27.1862.1053@58.27.1862.1053" timestamp="1590274564467" />
+    <state width="1816" height="236" key="GridCell.Tab.0.bottom" timestamp="1590319510458">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state width="1816" height="236" key="GridCell.Tab.0.bottom/58.27.1862.1053@58.27.1862.1053" timestamp="1590319510458" />
+    <state width="1816" height="236" key="GridCell.Tab.0.center" timestamp="1590319510457">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state width="1816" height="236" key="GridCell.Tab.0.center/58.27.1862.1053@58.27.1862.1053" timestamp="1590319510457" />
+    <state width="1816" height="236" key="GridCell.Tab.0.left" timestamp="1590319510456">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state width="1816" height="236" key="GridCell.Tab.0.left/58.27.1862.1053@58.27.1862.1053" timestamp="1590319510456" />
+    <state width="1816" height="236" key="GridCell.Tab.0.right" timestamp="1590319510458">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state width="1816" height="236" key="GridCell.Tab.0.right/58.27.1862.1053@58.27.1862.1053" timestamp="1590319510458" />
+    <state width="1816" height="236" key="GridCell.Tab.1.bottom" timestamp="1590276078703">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state width="1816" height="236" key="GridCell.Tab.1.bottom/58.27.1862.1053@58.27.1862.1053" timestamp="1590276078703" />
+    <state width="1816" height="236" key="GridCell.Tab.1.center" timestamp="1590276078702">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state width="1816" height="236" key="GridCell.Tab.1.center/58.27.1862.1053@58.27.1862.1053" timestamp="1590276078702" />
+    <state width="1816" height="236" key="GridCell.Tab.1.left" timestamp="1590276078702">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state width="1816" height="236" key="GridCell.Tab.1.left/58.27.1862.1053@58.27.1862.1053" timestamp="1590276078702" />
+    <state width="1816" height="236" key="GridCell.Tab.1.right" timestamp="1590276078702">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state width="1816" height="236" key="GridCell.Tab.1.right/58.27.1862.1053@58.27.1862.1053" timestamp="1590276078702" />
+    <state x="522" y="211" width="924" height="691" key="Maven.ArtifactSearchDialog" timestamp="1590243420678">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state x="522" y="211" width="924" height="691" key="Maven.ArtifactSearchDialog/58.27.1862.1053@58.27.1862.1053" timestamp="1590243420678" />
+    <state x="478" y="188" key="SettingsEditor" timestamp="1590276101411">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state x="478" y="188" key="SettingsEditor/58.27.1862.1053@58.27.1862.1053" timestamp="1590276101411" />
+    <state x="722" y="338" width="524" height="458" key="extract.method.dialog" timestamp="1590260497396">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state x="722" y="338" width="524" height="458" key="extract.method.dialog/58.27.1862.1053@58.27.1862.1053" timestamp="1590260497396" />
+    <state x="747" y="256" width="710" height="522" key="find.popup" timestamp="1590238270278">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state x="747" y="256" width="710" height="522" key="find.popup/58.27.1862.1053@58.27.1862.1053" timestamp="1590238270278" />
+    <state x="438" y="376" width="1372" height="625" key="new project wizard" timestamp="1590269236455">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state x="438" y="376" width="1372" height="625" key="new project wizard/58.27.1862.1053@58.27.1862.1053" timestamp="1590269236455" />
+    <state x="734" y="182" width="500" height="750" key="refactoring.ChangeSignatureDialog" timestamp="1590250159606">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state x="734" y="182" width="500" height="750" key="refactoring.ChangeSignatureDialog/58.27.1862.1053@58.27.1862.1053" timestamp="1590250159606" />
+    <state x="653" y="252" width="672" height="677" key="run.anything.popup" timestamp="1590276078728">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state x="653" y="252" width="672" height="677" key="run.anything.popup/58.27.1862.1053@58.27.1862.1053" timestamp="1590276078728" />
+  </component>
+</project>
