@@ -15,4 +15,4 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Build the Docker image
-      run: docker-compose --file https://github.com/mhmtonrn/springboot-mongodb-havelsan/blob/master/src/main/resources/docker-compose.yml up -d
+      run: docker-compose --file src/main/resources/docker-compose.yml up -d
